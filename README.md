@@ -3,7 +3,7 @@
 > Visually driven physics and math animations built with **Manim (Community Edition)** — designed for YouTube and Instagram education content.
 
 Made by **Abdul Basit** · BS Physics · Pakistan  
-GitHub: [@Physisst](https://github.com/Physisst)
+GitHub: [@hundreddimensions0-maker](https://github.com/hundreddimensions0-maker)
 
 ---
 
